@@ -12,7 +12,10 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/functions": "^4.0.0"
+    "@azure/functions": "^4.0.0",
+    "@cicciosgamino/openweather-apis": "^5.2.0",
+    "axios": "^1.6.8",
+    "kafkajs": "^2.2.4"
   },
   "devDependencies": {
     "@types/node": "18.x",
