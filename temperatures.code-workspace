@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"__blobstorage__": true,
+			"__queuestorage__": true,
+			"__azurite*": true
+		}
+	}
+}
