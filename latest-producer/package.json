@@ -18,15 +18,15 @@
     "kafkajs": "^2.2.4"
   },
   "devDependencies": {
-    "@types/node": "20.x",
-    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@types/node": "18.x",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
     "azure-functions-core-tools": "^4.x",
     "eslint": "^8.57.0",
     "eslint-config-standard-with-typescript": "^43.0.1",
     "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-n": "^17.2.1",
+    "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-promise": "^6.1.1",
     "rimraf": "^5.0.0",
-    "typescript": "^5.4.5"
+    "typescript": "^4.9.5"
   }
 }

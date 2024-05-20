@@ -9,6 +9,7 @@
 			"__blobstorage__": true,
 			"__queuestorage__": true,
 			"__azurite*": true
-		}
+		},
+		"debug.internalConsoleOptions": "neverOpen"
 	}
 }
